@@ -1,0 +1,13 @@
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.exe
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.deps.json
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.runtimeconfig.json
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.runtimeconfig.dev.json
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.dll
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.pdb
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.csprojAssemblyReference.cache
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.AssemblyInfoInputs.cache
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.AssemblyInfo.cs
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.dll
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.pdb
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.genruntimeconfig.cache

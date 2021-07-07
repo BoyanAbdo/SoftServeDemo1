@@ -1,0 +1,13 @@
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\bin\Debug\netcoreapp3.1\SoftServeDemo1.exe
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\bin\Debug\netcoreapp3.1\SoftServeDemo1.deps.json
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\bin\Debug\netcoreapp3.1\SoftServeDemo1.runtimeconfig.json
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\bin\Debug\netcoreapp3.1\SoftServeDemo1.runtimeconfig.dev.json
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\bin\Debug\netcoreapp3.1\SoftServeDemo1.dll
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\bin\Debug\netcoreapp3.1\SoftServeDemo1.pdb
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\obj\Debug\netcoreapp3.1\SoftServeDemo1.csprojAssemblyReference.cache
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\obj\Debug\netcoreapp3.1\SoftServeDemo1.AssemblyInfoInputs.cache
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\obj\Debug\netcoreapp3.1\SoftServeDemo1.AssemblyInfo.cs
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\obj\Debug\netcoreapp3.1\SoftServeDemo1.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\obj\Debug\netcoreapp3.1\SoftServeDemo1.dll
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\obj\Debug\netcoreapp3.1\SoftServeDemo1.pdb
+C:\Users\PC-01\Desktop\SoftServe\Projects\SoftServeDemo1\SoftServeDemo1\obj\Debug\netcoreapp3.1\SoftServeDemo1.genruntimeconfig.cache
